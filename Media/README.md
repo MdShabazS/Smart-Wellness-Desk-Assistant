@@ -9,7 +9,6 @@ This folder contains supporting media files for the **Smart Wellness Desk Assist
 
 ### `Certificate.jpg`
 - Certificate of participation/completion from the **3-Day Workshop on Designing Embedded AI Systems**.
-  ![Certificate.jpg](Media/Certificate.jpg)
 
 ### `Demo_Video.mp4`
 - Short demo video of the project running on hardware.  
