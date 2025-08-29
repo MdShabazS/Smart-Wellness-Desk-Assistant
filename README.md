@@ -30,7 +30,7 @@ Here’s the connection overview of the Smart Wellness Desk Assistant:
 ---
 
 ## 📂 Repository Structure
-│── README.md
+│── README.md \n
 │── /Code
 │ └── STM32CubeIDE_Code.c
 │── /Docs
