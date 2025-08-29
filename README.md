@@ -31,8 +31,10 @@ Here’s the connection overview of the Smart Wellness Desk Assistant:
 
 ## 📂 Repository Structure
 - │── README.md  
-- │── /Code 
-- │ └── STM32CubeIDE_Code.c  
+- │── /Code
+- │ └── main.c
+- │ └── STM32CubeIDE_Code.c
+- │ └── STM32CubeIDE_Code.h
 - │── /Docs  
 - │ └── Smart_Wellness_Desk_Assistant_Setup_Guide.pdf
 - │ └── STM32CubeIDE_Code_and_Pin_Connections.pdf  
